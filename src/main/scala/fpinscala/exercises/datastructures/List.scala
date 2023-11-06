@@ -1,4 +1,4 @@
-package fpinscala.exercies.datastructures
+package fpinscala.exercises.datastructures
 
 import scala.annotation.tailrec
 
